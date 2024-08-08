@@ -34,7 +34,7 @@ public class Main {
             }
             System.out.print(c[i] + ", ");
         }
-        //task4
+        //task 4
         for (int i = 0; i <= a.length - 1; i++) {
             if (a[i] % 2 != 0) {
                 a[i] = a[i] + 1;
